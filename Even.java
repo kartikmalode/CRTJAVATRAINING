@@ -8,7 +8,7 @@ public class Even {
       System.out.println("Even ");
         for(int i=1; i<=n; i++){
         if(i%2 ==0){
-            System.out.println(i+"Number is even ");
+            System.out.println(i+"is even number ");
           evensum +=i; 
         
 
@@ -18,7 +18,7 @@ public class Even {
 
     for(int i =1; i<=n; i++){
         if (!(i%2==0)) {
-            System.out.println(i +"number is odd");
+            System.out.println(i +"is odd number");
            oddsum +=i;
             
         }
