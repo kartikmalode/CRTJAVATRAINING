@@ -1,3 +1,4 @@
+package Day3;
 public class PR1 {
     public static void main(String[] args) {
         int a = 10;
@@ -12,5 +13,7 @@ public class PR1 {
 
         System.out.println(area);
         System.out.println(circum);
+
+        
     }
 }

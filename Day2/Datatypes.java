@@ -1,3 +1,4 @@
+package Day2;
 import java.util.*;
 
 import javax.swing.plaf.synth.SynthPasswordFieldUI;
@@ -35,6 +36,6 @@ public class Datatypes {
       System.out.println("convert int to byte");
      int n = sc.nextInt();
      byte bt = (byte) n;
-     System.out.println(n + "byte is "+bt);
+     System.out.println(n + " byte is "+bt);
     }
 }

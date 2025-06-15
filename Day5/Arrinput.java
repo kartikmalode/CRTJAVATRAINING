@@ -13,5 +13,6 @@ public class Arrinput {
             sum = sum +Integer.parseInt(args[i]);
         }
         System.out.println("sum is"+sum);
+        //java Arrinput.java 10 20 30  for running the code
     }
 }

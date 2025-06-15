@@ -1,3 +1,4 @@
+package Day1;
 import java.util.*;
 public class Ascivalue {
     public static void main(String[] args) {
@@ -12,5 +13,6 @@ public class Ascivalue {
 
        char ch = (char) s;
        System.out.println(" "+s+ " is "+ ch);
+       
     }
 }
